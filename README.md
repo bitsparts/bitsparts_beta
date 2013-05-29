@@ -34,9 +34,9 @@ BitSparts All in 1 Beta v1.0
 **Status:27/05/2013  11:50 am**
 
 
-- Views: +2000
-Downloads: +1100
-- max users online: +420 connected simultaneously.
-- average users online: +90
+- Views: 82000
+Downloads: +3200
+- max users online: +720 connected simultaneously.
+- average users online: +130
 
 **Users Online now: [http://cointoolsbr.com/bitcoin/contador.html](http://cointoolsbr.com/bitcoin/contador.html)**
